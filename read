@@ -1,0 +1,10 @@
+Varianta scurtă, pe o singură linie pentru fiecare rulare:
+
+Botul principal:
+
+cd C:\Users\thehe\Desktop\bot_tel_gabibrx; python bot.py
+
+
+Interfața de administrare:
+
+cd C:\Users\thehe\Desktop\bot_tel_gabibrx; python admin_flask.py
